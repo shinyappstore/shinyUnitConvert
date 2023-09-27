@@ -1,0 +1,38 @@
+.panel-content:has(.form-label){
+
+}
+
+.initial-statment{
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+#conversationcnt .form-group {
+    background-color: #333;
+    color: white;
+    padding: 3px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    width: 24%!important;
+    max-width: 24%;
+}
+
+#conversationcnt .form-group .input-group{
+ background-color: white;
+  padding: 5px;
+}
+#conversationcnt .form-group .input-group input{
+  border-width:0px;
+    color: red;
+font-size: 150%;
+}
+
+#conversationcnt .form-group .form-label{
+  padding: 5px;
+}
+
+#conversationleft .action-button{
+  margin:3px;
+}
